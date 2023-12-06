@@ -1,0 +1,37 @@
+{
+  "homeapplainces": [
+      {
+          "productId": "1",
+          "productName": "Led Light",
+          "Brand": "keerthi",
+          "SeriesOfBrand": "34",
+          "CurrentPrice": "14",
+          "Discount": "2",
+          "DeliveryCharges": "3",
+          "Ratings":"4",
+          "Reviews": "good"
+      },
+      {
+          "productId": "2",
+          "productName": "grinder",
+          "Brand": "pigeon",
+          "SeriesOfBrand": "5",
+          "CurrentPrice": "34",
+          "Discount": "10",
+          "DeliveryCharges": "0",
+          "Ratings":"5",
+          "Reviews": "worth it"
+      },
+      {
+          "productId": "3",
+          "productName": "waterbottle",
+          "Brand": "trail",
+          "SeriesOfBrand": "2",
+          "CurrentPrice": "4",
+          "Discount": "5",
+          "DeliveryCharges": "0",
+          "Ratings":"4",
+          "Reviews": "quality is good"
+      }
+  ]
+}
